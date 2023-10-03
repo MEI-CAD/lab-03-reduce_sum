@@ -19,11 +19,11 @@ October 3, 2023
 - [Overall goal](#overall-goal)
 - [Setup](#setup)
 - [Assignment](#assignment)
-        - [Task 01: Testing the sequential code](#task-01)
-        - [Task 02: Test the compiler optimizer](#task-02)
-        - [Task 03: Parallelize with OpenMP and test](#task-03)
-        - [Task 04: Parallelize with CUDA and test](#task-04)
-        - [Task 05: Discussion](#task-05)
+  - [Task 01: Testing the sequential code](#task-01)
+  - [Task 02: Test the compiler optimizer](#task-02)
+  - [Task 03: Parallelize with OpenMP and test](#task-03)
+  - [Task 04: Parallelize with CUDA and test](#task-04)
+  - [Task 05: Discussion](#task-05)
 
 
 ## Overall goal
