@@ -18,12 +18,11 @@ October 3, 2023
 
 - [Overall goal](#overall-goal)
 - [Setup](#setup)
-  - [Developing locally](#developing-locally)
-  - [Docker container](#docker-container)
-  - [Cluster](#cluster)
-- [Task 01: Testing installation](#task-01-testing-installation)
-- [Task 02: Estimating pi](#task-02-estimating-pi)
-- [Task 03: Remote deployment and execution](#task-03-remote-deployment-and-execution)
+- [Task 01: Testing the sequential code](#task-01)
+- [Task 02: Test the compiler optimizer](#task-02)
+- [Task 03: Parallelize with OpenMP and test](#task-03)
+- [Task 04: Parallelize with CUDA and test](#task-04)
+- [Task 05: Discussion](#task-05)
 
 
 ## Overall goal
