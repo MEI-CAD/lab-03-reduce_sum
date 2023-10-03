@@ -10,7 +10,7 @@ Alex Davidson <a.davidson@fct.unl.pt>
 
 October 3, 2023
 
-## Assignment link <!-- omit in toc -->
+<!-- ## Assignment link --> <!-- omit in toc -->
 
 <!-- ### <https://classroom.github.com/a/Yk3GawQV> -->
 
