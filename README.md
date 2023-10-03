@@ -120,7 +120,7 @@ Compile the same given code increasing the optimization level setp-by-step from 
 
 ### Task 3
 
-Parallelize the given code using OpenMP.  Compile it with `gcc -OX -o sum sum.c` increasing the optimization level (`X`) setp-by-step from 0 to 2.  For each optimization level register the execution time.
+Parallelize the given code using OpenMP.  Compile it with `gcc -OX -o sum sum.c -fopenmp` increasing the optimization level (`X`) setp-by-step from 0 to 2.  For each optimization level register the execution time.
 
 ### Task 4
 
